@@ -29,3 +29,30 @@ simple-todo-list/
 ├── style.css
 ├── script.js
 └── README.md
+```
+
+## How to Run Locally
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
+4. Start adding tasks.
+
+## How It Works
+
+The application uses HTML to create the page structure, CSS to style the interface, and JavaScript to handle adding, completing, and deleting tasks.
+
+## Future Improvements
+
+- Save tasks using Local Storage
+- Add task priorities
+- Add due dates
+- Add dark mode
+- Add task filtering
+- Add a clear-all button
+
+## Author
+
+**Manan Samal**
+
+GitHub: [MananSamal](https://github.com/MananSamal)
